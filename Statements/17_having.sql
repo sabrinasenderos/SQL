@@ -1,4 +1,0 @@
-SELECT * FROM users HAVING age > 30
-
-SELECT COUNT(age) FROM users HAVING COUNT(age) > 4
-
